@@ -1,0 +1,7 @@
+C:\Users\Kab-31-13\Desktop\Anton&Danik\bin\Debug\Anton&Danik.exe.config
+C:\Users\Kab-31-13\Desktop\Anton&Danik\bin\Debug\Anton&Danik.exe
+C:\Users\Kab-31-13\Desktop\Anton&Danik\bin\Debug\Anton&Danik.pdb
+C:\Users\Kab-31-13\Desktop\Anton&Danik\obj\Debug\Anton&Danik.csproj.AssemblyReference.cache
+C:\Users\Kab-31-13\Desktop\Anton&Danik\obj\Debug\Anton&Danik.csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-13\Desktop\Anton&Danik\obj\Debug\Anton&Danik.exe
+C:\Users\Kab-31-13\Desktop\Anton&Danik\obj\Debug\Anton&Danik.pdb
